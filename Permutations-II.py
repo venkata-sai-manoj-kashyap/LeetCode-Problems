@@ -8,3 +8,4 @@ def permuteUnique(nums):
         if i not in dct:
             li.append(list[i])
             dct[i] = 1
+ 
