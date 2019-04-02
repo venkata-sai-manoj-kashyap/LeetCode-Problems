@@ -46,7 +46,7 @@ def findSchedules(work_hour, day_hours, pattern):
         total_available = work_hour - total_available
 
         if total_available >= 0:
-            return ''.join(pattern).replace('?', '0')
+            return [''.join(pattern).replace('?', '0')]
 
     new_list = []
     for i in range(1, day_hours+1):
