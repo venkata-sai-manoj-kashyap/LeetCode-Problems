@@ -1,6 +1,6 @@
 # Solutions to LeetCode-Problems
 
-### Designing Solutions to Problems on **LeetCode** and Problems found else where that are _challenging_.
+#### Designing Solutions to Problems on **LeetCode** and Problems found else where that are _challenging_.
 
 [3Sum Closest](https://github.com/venkata-sai-manoj-kashyap/LeetCode-Problems/blob/master/3Sum%20Closest.py "3Sum Closest")
 
